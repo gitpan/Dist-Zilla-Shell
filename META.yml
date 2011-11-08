@@ -21,4 +21,4 @@ requires:
 resources:
   homepage: https://github.com/dolmen/p5-Dist-Zilla-Shell
   repository: https://github.com/dolmen/p5-Dist-Zilla-Shell.git
-version: 0.004
+version: 0.005

@@ -3,7 +3,7 @@ use warnings;
 # ABSTRACT: An interactive shell to run Dist::Zilla commands
 package Dist::Zilla::Shell;
 {
-  $Dist::Zilla::Shell::VERSION = '0.004';
+  $Dist::Zilla::Shell::VERSION = '0.005';
 }
 
 1;

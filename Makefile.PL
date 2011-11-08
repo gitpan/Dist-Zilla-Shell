@@ -24,7 +24,7 @@ my %WriteMakefileArgs = (
     "Term::ReadLine" => 0,
     "Text::ParseWords" => 0
   },
-  "VERSION" => "0.004",
+  "VERSION" => "0.005",
   "test" => {
     "TESTS" => "t/*.t"
   }
